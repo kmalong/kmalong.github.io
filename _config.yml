@@ -1,0 +1,25 @@
+#
+# This file contains configuration flags to customize your site
+#
+# Name of your site (displayed in the header)
+title: The Passing Thoughts of Zillenial
+# Short bio or description (displayed in the header)
+description: This blog includes random thoughts I have in passing about anything and everything.
+I tend to have a lot of thoughts and opinions that are just better left unsaid. Hopefully this can
+serve as a safe place for me to express those thoughts.
+
+#
+# !! DON'T EDIT BELOW THIS MESSAGE
+#
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
