@@ -3,7 +3,7 @@ layout: post
 title: Creating a Cool Blog
 ---
 
-First off, I love this class. It teaches me a lot of cool new things about the internet and electronic devices that I have never known before. That being said, however, I also hate this class. Coding can be so hard to grasp at times that I am so glad I will not be doing this for a living. Although, I will say that when you do figure something out, it feels really good. It reminds me of this ![meme](https://knowyourmeme.com/photos/1759340-meme-man-wurds-stonks-edits).
+First off, I love this class. It teaches me a lot of cool new things about the internet and electronic devices that I have never known before. That being said, however, I also hate this class. Coding can be so hard to grasp at times that I am so glad I will not be doing this for a living. Although, I will say that when you do figure something out, it feels really good. It reminds me of this [meme](https://knowyourmeme.com/photos/1759340-meme-man-wurds-stonks-edits).
 
 The task of this lab was to use the Github page you created last week and customize it. Last week I had trouble getting the repository to work on Visual Studio Code and that was stressful in and of itself but alas we move forward. I was determined to figure this ish out. As I was reading through the lab it felt simple enough. I created an about me page and chose a theme and created the layouts folder that I needed. But then came the main task of customizing my webpage to make it my own. 
 
