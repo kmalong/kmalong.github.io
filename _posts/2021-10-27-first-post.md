@@ -2,7 +2,7 @@
 layout: post
 title: My First Post
 categories:
-- welcome
+- posts
 ---
 
 This is my **first post**.
