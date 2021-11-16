@@ -1,6 +1,9 @@
 ---
 layout: page
 title: About Me
+categories:
+- about
+- welcome
 ---
 
 This page is about me!
