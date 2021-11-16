@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Creating a Cool Blog
+categories:
+- posts
 ---
 
 First off, I love this class. It teaches me a lot of cool new things about the internet and electronic devices that I have never known before. That being said, however, I also hate this class. Coding can be so hard to grasp at times that I am so glad I will not be doing this for a living. Although, I will say that when you do figure something out, it feels really good. It reminds me of this [meme](https://knowyourmeme.com/photos/1759340-meme-man-wurds-stonks-edits).
