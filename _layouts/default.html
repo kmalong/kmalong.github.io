@@ -28,13 +28,14 @@
     </header>
           
     <main id="content" class="main-content" role="main">
+      {{ content }}
 	      <nav>
 		            <ul>
 			                  <li><a href="/about/site.html">About This Site</a></li>
 			                  <li><a href="/about/me.html">About Me</a></li>
 		            </ul>
 	        </nav>
-      {{ content }}
+	    
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
